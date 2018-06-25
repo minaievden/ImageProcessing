@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FBB32F70-4B10-4C70-84B8-4EE2364F8B71}|Default">
+  <MonoDevelop.Ide.ItemProperties.ImageProcessing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageHandler.cs">
+    <Files>
+      <File FileName="ImageHandler.cs" Line="280" Column="82" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

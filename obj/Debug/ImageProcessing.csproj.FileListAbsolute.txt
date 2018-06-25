@@ -1,0 +1,139 @@
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/bin/Debug/ImageProcessing.exe
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/bin/Debug/ImageProcessing.pdb
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/obj/Debug/ResolveAssemblyReference.cache
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/obj/Debug/GenerateResource.read.1.tlog
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/obj/Debug/GenerateResource.write.1.tlog
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/obj/Debug/ImageProcessing.exe
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-source-code/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.exe
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/bin/Debug/ImageProcessing.exe
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/bin/Debug/ImageProcessing.pdb
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/obj/Debug/ResolveAssemblyReference.cache
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/obj/Debug/GenerateResource.read.1.tlog
+C:/Users/Папуля/Desktop/мкит/ImageProcessing-финиш/ImageProcessing/obj/Debug/GenerateResource.write.1.tlog
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.exe
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/bin/Debug/ImageProcessing.exe
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/bin/Debug/ImageProcessing.pdb
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/obj/Debug/ResolveAssemblyReference.cache
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/obj/Debug/GenerateResource.read.1.tlog
+C:/Users/dec/Desktop/ImageProcessing-финиш/ImageProcessing/obj/Debug/GenerateResource.write.1.tlog
+C:/Users/HP/Desktop/КИТ Новосельский/ImageProcessing/obj/Debug/ImageProcessing.exe
+C:/Users/HP/Desktop/КИТ Новосельский/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/HP/Desktop/КИТ Новосельский/ImageProcessing/bin/Debug/ImageProcessing.exe
+C:/Users/HP/Desktop/КИТ Новосельский/ImageProcessing/bin/Debug/ImageProcessing.pdb
+C:/Users/HP/Desktop/КИТ Новосельский/ImageProcessing/obj/Debug/ImageProcessing.csprojResolveAssemblyReference.cache
+C:/Users/HP/Desktop/КИТ Новосельский/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+C:/Users/HP/Desktop/КИТ Новосельский/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+C:/Users/HP/Desktop/КИТ Новосельский/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+C:/Users/HP/Desktop/КИТ Новосельский/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+C:/Users/HP/Desktop/КИТ Новосельский/ImageProcessing/obj/Debug/ImageProcessing.csproj.GenerateResource.Cache
+C:/Users/HP/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.exe
+C:/Users/HP/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/HP/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+C:/Users/HP/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+C:/Users/HP/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+C:/Users/HP/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+C:/Users/HP/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.csproj.GenerateResource.Cache
+C:/Users/HP/Desktop/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.exe
+C:/Users/HP/Desktop/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.pdb
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.exe
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.exe
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.pdb
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/obj/Debug/ResolveAssemblyReference.cache
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/obj/Debug/GenerateResource.read.1.tlog
+C:/Users/Максим/Desktop/МКИТ/ImageProcessing/obj/Debug/GenerateResource.write.1.tlog
+E:/ImageProcessing/obj/Debug/ImageProcessing.exe
+E:/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/HP/Desktop/ImageProcessing/obj/Debug/ImageProcessing.exe
+C:/Users/HP/Desktop/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/HP/Desktop/ImageProcessing/bin/Debug/ImageProcessing.exe
+C:/Users/HP/Desktop/ImageProcessing/bin/Debug/ImageProcessing.pdb
+C:/Users/HP/Desktop/ImageProcessing/obj/Debug/ImageProcessing.csprojResolveAssemblyReference.cache
+C:/Users/HP/Desktop/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+C:/Users/HP/Desktop/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+C:/Users/HP/Desktop/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+C:/Users/HP/Desktop/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+C:/Users/HP/Desktop/ImageProcessing/obj/Debug/ImageProcessing.csproj.GenerateResource.Cache
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.exe
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.exe
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.pdb
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/obj/Debug/ResolveAssemblyReference.cache
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/obj/Debug/GenerateResource.read.1.tlog
+C:/Users/Максим/Desktop/Курсовые_МинаевДП/МКИТ/ImageProcessing/obj/Debug/GenerateResource.write.1.tlog
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.exe
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.exe
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.pdb
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ResolveAssemblyReference.cache
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/GenerateResource.read.1.tlog
+C:/Users/Максим/Desktop/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/GenerateResource.write.1.tlog
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.exe
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.pdb
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.exe
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.pdb
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ResolveAssemblyReference.cache
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/GenerateResource.read.1.tlog
+E:/Курсовые_МинаевДП_1/МКИТ/ImageProcessing/obj/Debug/GenerateResource.write.1.tlog
+C:/Users/HP/Desktop/МКИТ_измененный/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.exe
+C:/Users/HP/Desktop/МКИТ_измененный/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.pdb
+C:/Users/HP/Desktop/МКИТ_измененный/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.exe
+C:/Users/HP/Desktop/МКИТ_измененный/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.pdb
+C:/Users/HP/Desktop/МКИТ_измененный/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+C:/Users/HP/Desktop/МКИТ_измененный/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+C:/Users/HP/Desktop/МКИТ_измененный/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+C:/Users/HP/Desktop/МКИТ_измененный/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+C:/Users/HP/Desktop/МКИТ_измененный/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.csproj.GenerateResource.Cache
+C:/Users/HP/Desktop/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.csprojResolveAssemblyReference.cache
+E:/Education/5-й семестр/Курсовые работы/МКИТ/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.exe
+E:/Education/5-й семестр/Курсовые работы/МКИТ/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.pdb
+E:/Education/5-й семестр/Курсовые работы/МКИТ/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.exe
+E:/Education/5-й семестр/Курсовые работы/МКИТ/МКИТ/ImageProcessing/bin/Debug/ImageProcessing.pdb
+E:/Education/5-й семестр/Курсовые работы/МКИТ/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.csprojResolveAssemblyReference.cache
+E:/Education/5-й семестр/Курсовые работы/МКИТ/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+E:/Education/5-й семестр/Курсовые работы/МКИТ/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+E:/Education/5-й семестр/Курсовые работы/МКИТ/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+E:/Education/5-й семестр/Курсовые работы/МКИТ/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+E:/Education/5-й семестр/Курсовые работы/МКИТ/МКИТ/ImageProcessing/obj/Debug/ImageProcessing.csproj.GenerateResource.Cache
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/bin/Debug/ImageProcessing.exe
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/bin/Debug/ImageProcessing.pdb
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/obj/Debug/ImageProcessing.csprojResolveAssemblyReference.cache
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/obj/Debug/ImageProcessing.CropForm.resources
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/obj/Debug/ImageProcessing.ImageInfo.resources
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/obj/Debug/ImageProcessing.ImageProcessing.resources
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/obj/Debug/ImageProcessing.Properties.Resources.resources
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/obj/Debug/ImageProcessing.csproj.GenerateResource.cache
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/obj/Debug/ImageProcessing.csproj.CoreCompileInputs.cache
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/obj/Debug/ImageProcessing.exe
+/Users/denysminaiev/Desktop/ImageProcessing/ImageProcessing/obj/Debug/ImageProcessing.pdb
